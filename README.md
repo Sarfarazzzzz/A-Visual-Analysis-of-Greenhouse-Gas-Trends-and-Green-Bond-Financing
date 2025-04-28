@@ -8,10 +8,10 @@ Our work includes interactive visualizations (created in Tableau), a detailed da
 
 ### 🎯 Objectives
 
-Identify major contributors to global greenhouse gas emissions by sector and region.
-Track changes in emissions trends from 2010 to 2022 across continents and industries.
-Analyze the growth and distribution of green bond financing from 1985 to 2022.
-Assess the relationship between climate finance efforts and actual changes in emissions and surface temperatures.
+- Identify major contributors to global greenhouse gas emissions by sector and region.
+- Track changes in emissions trends from 2010 to 2022 across continents and industries.
+- Analyze the growth and distribution of green bond financing from 1985 to 2022.
+- Assess the relationship between climate finance efforts and actual changes in emissions and surface temperatures.
 
 ### 📊 Datasets
 
@@ -21,18 +21,18 @@ Assess the relationship between climate finance efforts and actual changes in em
 
 ### 🛠️ Deliverables
 
-Final_Dashboard.twbx – Tableau dashboard with interactive visualizations.
-Viz PPT.pptx – Final presentation summarizing key findings and insights.
-Final_Report.docx – Full written project report including introduction, methodology, visualizations, analysis, limitations, and references.
+- Final_Dashboard.twbx – Tableau dashboard with interactive visualizations.
+- Viz PPT.pptx – Final presentation summarizing key findings and insights.
+- Final_Report.docx – Full written project report including introduction, methodology, visualizations, analysis, limitations, and references.
 
 ### 🔑 Key Insights
 
-Emissions continue to rise, especially in the energy and manufacturing sectors, despite an increase in green bond financing.
-Asia stands out as the leading emitter, driven by industrial and energy sector growth.
-Green bond issuance has accelerated in recent years but shows limited direct impact on reversing emission trends, raising concerns about greenwashing.
-Surface temperature patterns suggest temporary dips (e.g., during COVID-19 lockdowns) do not lead to sustained climate improvements without systemic action.
+- Emissions continue to rise, especially in the energy and manufacturing sectors, despite an increase in green bond financing.
+- Asia stands out as the leading emitter, driven by industrial and energy sector growth.
+- Green bond issuance has accelerated in recent years but shows limited direct impact on reversing emission trends, raising concerns about greenwashing.
+- Surface temperature patterns suggest temporary dips (e.g., during COVID-19 lockdowns) do not lead to sustained climate improvements without systemic action.
 
 ### 📌 Limitations
 
-Some countries and regions (especially in South America) are underrepresented in the datasets.
-Incomplete or missing green bond reporting data limits comprehensive financial analysis.
+- Some countries and regions (especially in South America) are underrepresented in the datasets.
+- Incomplete or missing green bond reporting data limits comprehensive financial analysis.
